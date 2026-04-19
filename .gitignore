@@ -1,7 +1,6 @@
 /.quarto/
 /_site/
 /.Rproj.user/
-/docs/
 .env
 .ipynb_checkpoints
 __pycache__
